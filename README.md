@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://uizyk.github.io/](https://uizyk.github.io/)
+- 👨‍💻 All of my projects are available at [https://uizyk.github.io/](uizyk.github.io)
 
 - 📫 How to reach me **uizykim@gmail.com**
 
