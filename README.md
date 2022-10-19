@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at ([uizyk.github.io](https://uizyk.github.io/))
+- 👨‍💻 All of my projects are available at [uizyk.github.io](https://uizyk.github.io/)
 
-- 📫 How to reach me (**uizykim@gmail.com**)
+- 📫 How to reach me **uizykim@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://docs.google.com/document/d/1zyqPg1i8ejiHs6wEWUZVQBjwvsrnt-mL8vYxi5SeFKM/edit?usp=sharing))
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zyqPg1i8ejiHs6wEWUZVQBjwvsrnt-mL8vYxi5SeFKM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
