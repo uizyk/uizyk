@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **uizykim@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zyqPg1i8ejiHs6wEWUZVQBjwvsrnt-mL8vYxi5SeFKM/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uizynft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uizynft" height="30" width="40" /></a>
