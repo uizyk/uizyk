@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate software developer from Seoul, South Korea</h3>
+<h3 align="center">A passionate full stack developer from Seoul, South Korea</h3>
 
 - 👨‍💻 Some of my projects are available at [uizyk.github.io](https://uizyk.github.io/)
 
