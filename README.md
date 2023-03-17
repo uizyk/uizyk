@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
-</div>  
+<h1 align="center">Hi 👋, I'm Sam</h1>
   
 
-### <div align="center">I'm Sam, a full-stack developer with a strong passion for front-end development currently working in Seoul, South Korea👨‍💻</div>  
+### <div align="center">A full-stack developer with a strong passion for front-end development currently working in Seoul, South Korea👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [4 Foodies](https://github.com/chingu-voyages/v43-tier2-team-11)  
