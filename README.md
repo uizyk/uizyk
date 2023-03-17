@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
   
 
-### <div align="center">👨‍💻 A full-stack developer with a strong passion for front-end, based in Seoul, South Korea.</div>  
+### <div align="center">A full-stack developer with a strong passion for front-end, based in Seoul, South Korea. 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [4 Foodies](https://github.com/chingu-voyages/v43-tier2-team-11)  
