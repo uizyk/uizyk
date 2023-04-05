@@ -5,13 +5,10 @@
 
 - 🏢 Developer at Sanion
   
-
 - 🔭 Current side project [4 Foodies](https://github.com/chingu-voyages/v43-tier2-team-11)  
-  
 
 - 📫 How to reach me uizykim@gmail.com  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
    
 
