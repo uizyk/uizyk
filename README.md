@@ -4,15 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">🔗 Connect with me</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/0xsamkim/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -22,10 +14,22 @@
   <a href="https://discordapp.com/users/219945857599012865" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🏢 Currently working as a developer at Sanion<br>- 📚 Enjoys learning new tech, diving into web3<br>- 🥊 Fun fact: Former amateur MMA fighter, still train for fun</p>
 
 ###
 
@@ -58,17 +62,5 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/uizyk/uizyk/output/snake.svg" alt="Snake animation" />
 
 ###
