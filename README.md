@@ -62,9 +62,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/uizyk/uizyk/output/snake.svg" alt="Snake animation" />
-
-###
