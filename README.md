@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🏢 Currently working as a developer at Sanion<br>- 📚 Enjoys learning new tech, diving into web3<br>- 🥊 Fun fact: Former amateur MMA fighter, still train for fun</p>
+<p align="left">- 🏢 Currently working as a developer at Sanion<br><br>- 📚 Enjoys learning new tech, diving into web3<br><br>- 🥊 Fun fact: Former amateur MMA fighter, still train for fun</p>
 
 ###
 
@@ -62,3 +62,5 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
 </div>
+
+###
