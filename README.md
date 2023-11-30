@@ -64,3 +64,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/uizyk/uizyk/output/snake.svg" alt="Snake animation" />
+
+###
