@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🏢 Currently working as a developer at Sanion<br><br>- 📚 Enjoys learning new tech, diving into web3<br><br>- 🥊 Fun fact: Former amateur MMA fighter, still train for fun</p>
+<p align="left">- 🏢 Currently working as a developer at Sanion<br><br>- 📚 Enjoys learning new tech, diving into web3<br><br>- 🤼 Trains Wrestling and Brazilian Jiu-Jitsu for fun</p>
 
 ###
 
